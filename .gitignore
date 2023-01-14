@@ -3,4 +3,6 @@ settings.py
 dist
 release
 software
+venv
+resources
 
