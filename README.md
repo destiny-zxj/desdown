@@ -3,7 +3,7 @@
 ### 目录结构
 
 ```bash
-|- dist      # desdown 当前版本打包
+|- dist      # 
 |- software  # 发布到仓库的软件
 ```
 
